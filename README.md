@@ -1,1 +1,2 @@
-# BinaryCodedGeneticAlgorithm
+# Binary Coded Genetic Algorithm
+
